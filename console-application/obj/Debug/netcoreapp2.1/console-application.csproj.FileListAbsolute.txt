@@ -1,0 +1,11 @@
+E:\try_vs\console-application\bin\Debug\netcoreapp2.1\console-application.deps.json
+E:\try_vs\console-application\bin\Debug\netcoreapp2.1\console-application.runtimeconfig.json
+E:\try_vs\console-application\bin\Debug\netcoreapp2.1\console-application.runtimeconfig.dev.json
+E:\try_vs\console-application\bin\Debug\netcoreapp2.1\console-application.dll
+E:\try_vs\console-application\bin\Debug\netcoreapp2.1\console-application.pdb
+E:\try_vs\console-application\obj\Debug\netcoreapp2.1\console-application.csprojAssemblyReference.cache
+E:\try_vs\console-application\obj\Debug\netcoreapp2.1\console-application.csproj.CoreCompileInputs.cache
+E:\try_vs\console-application\obj\Debug\netcoreapp2.1\console-application.AssemblyInfoInputs.cache
+E:\try_vs\console-application\obj\Debug\netcoreapp2.1\console-application.AssemblyInfo.cs
+E:\try_vs\console-application\obj\Debug\netcoreapp2.1\console-application.dll
+E:\try_vs\console-application\obj\Debug\netcoreapp2.1\console-application.pdb
